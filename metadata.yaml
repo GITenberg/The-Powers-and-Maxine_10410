@@ -1,0 +1,45 @@
+_repo: The-Powers-and-Maxine_10410
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Merrill, Frank T.
+    aliases:
+    - Merrill, F. T.
+    - Merrill, Frank Thayer
+    birthdate: 1848
+    gutenberg_agent_id: '6202'
+    url: http://www.gutenberg.org/2009/agents/6202
+creator:
+  authors:
+  - agent_name: Williamson, A. M. (Alice Muriel)
+    aliases:
+    - Williamson, Alice Muriel
+    - Williamson, Mrs. C. N.
+    birthdate: 1869
+    deathdate: 1933
+    gutenberg_agent_id: '3796'
+    url: http://www.gutenberg.org/2009/agents/3796
+    wikipedia: http://en.wikipedia.org/wiki/Alice_Muriel_Williamson
+  - agent_name: Williamson, C. N. (Charles Norris)
+    alias: Williamson, Charles Norris
+    birthdate: 1859
+    deathdate: 1920
+    gutenberg_agent_id: '3522'
+    url: http://www.gutenberg.org/2009/agents/3522
+description: ''
+gutenberg_issued: '2003-12-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '10410'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Man-woman relationships -- Fiction'
+- !lcsh 'Paris (France) -- Fiction'
+- !lcsh 'Spy stories'
+- !lcc 'PR'
+- GITenberg
+title: The Powers and Maxine
+url: http://www.gutenberg.org/ebooks/10410
