@@ -1,5 +1,5 @@
 _repo: The-Powers-and-Maxine_10410
-_version: 0.0.1
+_version: 0.1.0
 contributor:
   illustrator:
     agent_name: Merrill, Frank T.
@@ -9,6 +9,9 @@ contributor:
     birthdate: 1848
     gutenberg_agent_id: '6202'
     url: http://www.gutenberg.org/2009/agents/6202
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   authors:
   - agent_name: Williamson, A. M. (Alice Muriel)
@@ -27,6 +30,8 @@ creator:
     gutenberg_agent_id: '3522'
     url: http://www.gutenberg.org/2009/agents/3522
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/10410#The-Powers-and-Maxine
 gutenberg_issued: '2003-12-01'
 gutenberg_type: Text
 identifiers:
